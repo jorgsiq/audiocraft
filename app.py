@@ -8,6 +8,7 @@
 # also released under the MIT license.
 
 import argparse
+
 from concurrent.futures import ProcessPoolExecutor
 import os
 from pathlib import Path
